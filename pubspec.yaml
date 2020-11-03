@@ -4,7 +4,7 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.7.0 <3.0.0'
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -12,10 +12,10 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   cupertino_icons:
-  firebase_core: '^0.5.0'
-  firebase_analytics: '^6.0.0'
-  firebase_auth: '^0.18.0+1'
-  cloud_firestore: '^0.14.0+2'
+  firebase_core: "^0.5.0"
+  firebase_analytics: "^6.0.0"
+  firebase_auth: "^0.18.0+1"
+  cloud_firestore: "^0.14.0+2"
 
   # google_sign_in:
   # apple_sign_in:
